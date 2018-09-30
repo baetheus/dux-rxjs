@@ -1,0 +1,22 @@
+{
+  "name": "dux-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baetheus/dux-rxjs.git"
+  },
+  "author": "Brandon Blaylock (brandon@null.pub)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/baetheus/dux-rxjs/issues"
+  },
+  "homepage": "https://github.com/baetheus/dux-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
